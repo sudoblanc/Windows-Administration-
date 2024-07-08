@@ -2,9 +2,9 @@
 This repository is dedicated to documenting my journey in learning and mastering Windows systems administration. It includes detailed notes, practical examples, and projects related to various aspects of managing Windows environments.
 
 ## Topics Covered
-**Understanding Windows Features and Functions:** Comprehensive overview of the benefits and capabilities of Windows operating systems.
+- **Understanding Windows Features and Functions:** Comprehensive overview of the benefits and capabilities of Windows operating systems.
 
-**Windows 10 Versions:** In-depth exploration of different Windows 10 versions and their unique features.
+- **Windows 10 Versions:** In-depth exploration of different Windows 10 versions and their unique features.
 
 **Active Directory:** Understanding and managing Active Directory services.
 
